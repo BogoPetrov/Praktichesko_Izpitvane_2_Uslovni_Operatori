@@ -1,0 +1,15 @@
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\bin\Debug\net7.0\Group_5_Ex. 1.exe
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\bin\Debug\net7.0\Group_5_Ex. 1.deps.json
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\bin\Debug\net7.0\Group_5_Ex. 1.runtimeconfig.json
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\bin\Debug\net7.0\Group_5_Ex. 1.dll
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\bin\Debug\net7.0\Group_5_Ex. 1.pdb
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.csproj.AssemblyReference.cache
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.AssemblyInfoInputs.cache
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.AssemblyInfo.cs
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.csproj.CoreCompileInputs.cache
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.dll
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\refint\Group_5_Ex. 1.dll
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.pdb
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\Group_5_Ex. 1.genruntimeconfig.cache
+D:\Програмиране\Учебници\Praktichesko_Izpitvane_2 - Uslovni_Operatori\Group_5_Ex. 1\obj\Debug\net7.0\ref\Group_5_Ex. 1.dll
